@@ -1,0 +1,2 @@
+# ARHunting_dataserver
+ARHuntingのデータサーバーのプログラム。アプリからモンスターについての情報をダウンロードする。
